@@ -333,6 +333,7 @@ Feel free to contribute!
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) - various popups and notifications.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) - Several ready to use effects for UITextFields
 * [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
+* [PhotoTagger](https://github.com/otaviokz/phototagger) - A simple app to sort your iPhone photo library using Tags
 
 ### Utility
 
